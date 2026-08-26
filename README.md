@@ -5,7 +5,7 @@
 This repository provides the implementation of **SHAPDiff-CR**, a Spatial Heterogeneity-Aware Partial Diffusion model for SAR-assisted optical image cloud removal.
 
 <p align="center">
-  <img src="assets/framework.png" width="95%">
+  <img src="SHAPD.png" width="95%">
 </p>
 
 <p align="center">
