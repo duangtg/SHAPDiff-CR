@@ -5,7 +5,7 @@
 This repository provides the implementation of **CDAPDiff-CR**, a Cloud Degradation-Aware Partial Diffusion model for SAR-assisted optical image cloud removal.
 
 <p align="center">
-  <img src="SHAPD.png" width="95%">
+  <img src="CDAPD.png" width="95%">
 </p>
 
 <p align="center">
